@@ -1,0 +1,30 @@
+h1 {
+
+font-family: fantasy;
+
+}
+
+body
+ {
+  background-image: url("/home/yoggysaron/Documents/cv_coda/css/carte.jpg") ;
+}
+
+
+ul {
+text-align: center;
+}
+
+.formation {
+
+text-align: center;
+  border: black solid ;
+}
+
+.connaisance {
+  border: black solid ;
+  text-align: center;
+}
+
+.apr {
+  text-align: center;
+}
